@@ -1,2 +1,5 @@
 # python-cuddly-potato
-Estudos básicos de Python PUC-Rio
+
+## Repositórios de estudos da Pós-Graduação de Data Science
+
+Estudos sobre de Python da pós-graduação
